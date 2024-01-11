@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-"""Contains a function with annotated parameters and
-return values with appropriate types."""
+"""Containing a function with annotated parameters and
+   return values with appropriate types.
+"""
 from typing import Iterable, Sequence, List, Tuple
 
 
